@@ -7,7 +7,7 @@ The Marketing Common Data Model (MCDM) is a full-fledged marketing analytics sui
 
 ## Adding data from new ad channel:
 - Data in MCDM is extract, transform and load from ad channel: Facebook, Tiktok, Twitter and Bing
-- If you need to add any channel, you need to upload the data in the correct format.[see here](https://github.com/PavelRawel/dbt_mcdm_challenge_khavanski/blob/main/seeds/mcdm_paid_ads_basic_performance_structure.csv)
+- If you need to add any channel, you need to upload the data in the correct format. You can see [here](https://github.com/PavelRawel/dbt_mcdm_challenge_khavanski/blob/main/seeds/mcdm_paid_ads_basic_performance_structure.csv)
 
 ## Hints:
 	- *Cost per engage* is just a spended sum divided by sum of engagements
